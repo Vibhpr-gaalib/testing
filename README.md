@@ -4,7 +4,14 @@
 
 <hr/>
 
+<h3> Technology Used </h3>
+<ul>
+  <li> Python v3.10.5</li>
+  <li> selenium </li>
+  <li> Robotframework </li>
+</ul>
 
+<hr/>
 
 <b><i>TestCase Information</i></b>
 
